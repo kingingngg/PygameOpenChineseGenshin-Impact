@@ -23,3 +23,7 @@ This project is dedicated to the public domain under the CC0 1.0 Universal licen
 ## Translation Disclaimer | 翻译声明
 The English version does not fully correspond to the Chinese version. The English text was translated by AI.  
 英文与中文并不完全对照，英文使用 AI 翻译。
+
+## Contact Me | 与我联系
+If you need to contact me, please send an email to kingingngg@qq.com.  
+如果你需要联系我，请发送邮件至 kingingngg@qq.com。
