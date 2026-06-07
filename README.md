@@ -3,7 +3,7 @@ Use Pygame to open the Chinese version of Genshin Impact, but this is not a game
 使用Pygame打开一个假原神，他不是真正的游戏，你可以理解成这是一次作业！
 
 ## What is this? | 这是什么
-"Chinese Genshin Launcher" made with Python and Pygame. It plays Genshin Impact's launch screen and the "launch tune" popular on the Chinese internet. Therefore, it is essentially a media player — you can think of it as a product of the Chinese internet culture.
+"Chinese Genshin Launcher" made with Python and Pygame. It plays Genshin Impact's launch screen and the "launch tune" popular on the Chinese internet. Therefore, it is essentially a media player — you can think of it as a product of the Chinese internet culture.<dr>
 基于Python和Pygame制作的“原神启动器”，它会播放原神的启动界面，播放启动小曲，换句话说它本身就是一个播放器，你可以理解成玩梗。
 
 ## How to run? | 怎么运行
