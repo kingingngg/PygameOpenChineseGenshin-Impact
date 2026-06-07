@@ -1,6 +1,5 @@
 # PygameOpenChineseGenshin-Impact | 用Pygame打开原神
-Use Pygame to open the Chinese version of Genshin Impact, but this is not a game.It's just homework!
-
+Use Pygame to open the Chinese version of Genshin Impact, but this is not a game.It's just homework!  
 使用Pygame打开一个假原神，他不是真正的游戏，你可以理解成这是一次作业！
 
 ## What is this? | 这是什么
