@@ -16,6 +16,9 @@ Use Pygame to open the Chinese version of Genshin Impact, but this is not a game
 3. Run code/main.py.  
 运行 code/main.py 。
 
+> **⚠️ The file must be encoded in UTF-8!**  
+> **⚠️ 注意：必须使用 UTF-8 编码！**
+
 ## License | 许可证
 This project is dedicated to the public domain under the CC0 1.0 Universal license.  
 采用 CC0 1.0 Universal 许可证。
